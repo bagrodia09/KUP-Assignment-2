@@ -1,5 +1,5 @@
 # KUP-Assignment-2
-Assignment on Resursion
+Assignment on Recursion
 
 # Question 1: 
 Write a function to find the factorial using recursion.
